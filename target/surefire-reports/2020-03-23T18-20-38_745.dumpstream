@@ -1,0 +1,15 @@
+# Created at 2020-03-23T18:20:40.021
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2020-03-23T18:20:40.021
+WARNING: Illegal reflective access by org.assertj.swing.dependency.fest_reflect.util.Accessibles$SetAccessibleAction (file:/C:/Users/Kubol/.m2/repository/org/assertj/assertj-swing/3.9.2/assertj-swing-3.9.2.jar) to field java.awt.KeyboardFocusManager.focusOwner
+
+# Created at 2020-03-23T18:20:40.021
+WARNING: Please consider reporting this to the maintainers of org.assertj.swing.dependency.fest_reflect.util.Accessibles$SetAccessibleAction
+
+# Created at 2020-03-23T18:20:40.023
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2020-03-23T18:20:40.023
+WARNING: All illegal access operations will be denied in a future release
+
